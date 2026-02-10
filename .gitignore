@@ -1,0 +1,24 @@
+# Model weights and checkpoints
+#*.pth
+#*.h5
+*.onnx
+*.pb
+*.weights
+*.caffemodel
+checkpoints/
+models/
+
+# Datasets
+data/
+dataset/
+*.zip
+*.tar.gz
+
+# Videos and large media
+*.mp4
+*.avi
+*.mov
+
+# Large logs
+logs/
+*.log
